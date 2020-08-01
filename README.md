@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome on my GitHub profile!
+
+[Visit my website](https://silas229.name)
+
 <!--
 **silas229/silas229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
