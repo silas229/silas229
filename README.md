@@ -2,6 +2,8 @@
 
 Welcome on my GitHub profile!
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silas229&count_private=true&show_icons=true&include_all_commits=true)](https://silas229.name)
+
 [Visit my website](https://silas229.name)
 
 <!--
